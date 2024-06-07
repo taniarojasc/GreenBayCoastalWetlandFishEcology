@@ -1,2 +1,2 @@
-# GreenBayCoastalWetlandFishEcology
+# GreenBay Coastal Wetland Fish Ecology
 This repository presents the data and scripts related to our publication:.....
